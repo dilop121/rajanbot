@@ -270,7 +270,7 @@ COMMAND_MENU_BUTTON = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="✴ ᴄᴏᴍᴍᴀɴᴅꜱ ✴", callback_data="advanced_cmd"
+                text="✴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴄᴏᴍᴍᴀɴᴅꜱ ✴", callback_data="advanced_cmd"
             ),
         ],
         [
