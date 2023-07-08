@@ -18,23 +18,23 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
     [   
         [
             InlineKeyboardButton(
-                text="✴ ᴄᴏᴍᴍᴀɴᴅs ✵", callback_data="command_menu"
+                text="★ ᴄᴏᴍᴍᴀɴᴅs ★", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="✴ ꜱᴇᴛᴛɪɴɢꜱ ✴", callback_data="settings_helper"
+                text="★ ꜱᴇᴛᴛɪɴɢꜱ ★", callback_data="settings_helper"
             ),                                   
         ],
         [
             InlineKeyboardButton(
-                text="✴ ᴄʜᴀɴɴᴇʟ ✴", url="https://t.me/HONEY_SINGH_121"
+                text="★ ᴄʜᴀɴɴᴇʟ ★", url="https://t.me/HONEY_SINGH_121"
             ),
             InlineKeyboardButton(
-                text="✴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ✴", url="https://t.me/HONEY_SINGH_121"
+                text="★ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/HONEY_SINGH_121"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="✴ ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ✴", url=f"https://t.me/HONEY_SINGH_121"
+                text="★ ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/HONEY_SINGH_121"
             ),                                  
         ]
     ]
@@ -48,20 +48,20 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [   
             InlineKeyboardButton(
-                text="✴ ᴄᴏᴍᴍᴀɴᴅs ✵", callback_data="command_menu"
+                text="★ ᴄᴏᴍᴍᴀɴᴅs ★", callback_data="command_menu"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="✴ ᴄʜᴀɴɴᴇʟ ✴", url="https://t.me/HONEY_SINGH_121"
+                text="★ ᴄʜᴀɴɴᴇʟ ★", url="https://t.me/HONEY_SINGH_121"
             ),
             InlineKeyboardButton(
-                text="✴ ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ✴", url="https://t.me/HONEY_SINGH_121"
+                text="★ ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url="https://t.me/HONEY_SINGH_121"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="✴ ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ✴", url=f"https://t.me/HONEY_SINGH_121"
+                text="★ ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/HONEY_SINGH_121"
             ),                                  
         ]
     ]
