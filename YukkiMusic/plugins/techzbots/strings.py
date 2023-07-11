@@ -7,6 +7,10 @@ START_TEXT = f"""
 🌹 **Hᴇʟʟᴏ MENTION !**
 **Yᴏᴜ Cᴀɴ Usᴇ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) Tᴏ Pʟᴀʏ Mᴜsɪᴄ/Vɪᴅᴇᴏs Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Vᴄ.**
 🤍 **Fɪɴᴅ Oᴜᴛ Aʟʟ Tʜᴇ Bᴏᴛ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Hᴏᴡ Tʜᴇʏ Wᴏʀᴋ Bʏ Cʟɪᴄᴋɪɴɢ Oɴ Tʜᴇ ➤ /ʜᴇʟᴘ**
+** ┍━━━━━»•» 🌺 «•«━┑\n\n                                                    ⤵
+           .ılılılllıılılıllllıılılllıllı.
+    0:24 ─●──────── -2:56
+            ↻      ◁ II ▷     ↺ \n\n ┕━»•» 🌺 «•«━━━━━┙**
 """
 
 COMMANDS_TEXT = f"""
