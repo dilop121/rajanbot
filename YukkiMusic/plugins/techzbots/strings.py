@@ -22,23 +22,23 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
     [   
         [
             InlineKeyboardButton(
-                text="★ ᴄᴏᴍᴍᴀɴᴅs ★", callback_data="command_menu"
+                text="★ Cᴏᴍᴍᴀɴᴅs ★", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="★ ꜱᴇᴛᴛɪɴɢꜱ ★", callback_data="settings_helper"
+                text="★ Sᴇᴛᴛɪɴɢꜱ ★", callback_data="settings_helper"
             ),                                   
         ],
         [
             InlineKeyboardButton(
-                text="★ ᴄʜᴀɴɴᴇʟ ★", url="https://t.me/HONEY_SINGH_121"
+                text="★ Oᴡɴᴇʀ ★", url="https://t.me/RajputGirl168"
             ),
             InlineKeyboardButton(
-                text="★ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/HONEY_SINGH_121"
+                text="★ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ★", url="https://t.me/HONEY_SINGH_121"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="★ ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/HONEY_SINGH_121"
+                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/HONEY_SINGH_121"
             ),                                  
         ]
     ]
@@ -47,25 +47,25 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
 START_BUTTON_PRIVATE = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="﹢ ᴀᴅᴅ ᴍᴇᴇ ᴘʟᴇᴀꜱᴇ ɪɴ ɢʀᴘ ﹢", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
+                text="﹢ Aᴅᴅ ᴍᴇᴇ ᴘʟᴇᴀꜱᴇ ɪɴ ɢʀᴘ ﹢", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
             ),            
         ],
         [   
             InlineKeyboardButton(
-                text="★ ᴄᴏᴍᴍᴀɴᴅs ★", callback_data="command_menu"
+                text="★ Cᴏᴍᴍᴀɴᴅs ★", callback_data="command_menu"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="★ ᴄʜᴀɴɴᴇʟ ★", url="https://t.me/HONEY_SINGH_121"
+                text="★ Oᴡɴᴇʀ ★", url="https://t.me/RajputGirl168"
             ),
             InlineKeyboardButton(
-                text="★ ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url="https://t.me/HONEY_SINGH_121"
+                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url="https://t.me/HONEY_SINGH_121"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="★ ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/HONEY_SINGH_121"
+                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/HONEY_SINGH_121"
             ),                                  
         ]
     ]
@@ -74,7 +74,7 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
 COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="✴ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ✴", callback_data="admin_cmd"
+                text="✴ Aᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ✴", callback_data="admin_cmd"
             ),
             InlineKeyboardButton(
                 text="✴ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ✴", callback_data="bot_cmd"
