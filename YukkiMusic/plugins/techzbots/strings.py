@@ -30,15 +30,15 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="★ Oᴡɴᴇʀ ★", url="https://t.me/RajputGirl168"
+                text="★ Oᴡɴᴇʀ ★", url="https://t.me/Radhe_bot_owner"
             ),
             InlineKeyboardButton(
-                text="★ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ★", url="https://t.me/HONEY_SINGH_121"
+                text="★ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ★", url="https://t.me/Friends_forever_new"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/HONEY_SINGH_121"
+                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/Radhe_bot_owner"
             ),                                  
         ]
     ]
@@ -57,15 +57,15 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="★ Oᴡɴᴇʀ ★", url="https://t.me/RajputGirl168"
+                text="★ Oᴡɴᴇʀ ★", url="https://t.me/Radhe_bot_owner"
             ),
             InlineKeyboardButton(
-                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url="https://t.me/HONEY_SINGH_121"
+                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url="https://t.me/Radhe_bot_owner"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/HONEY_SINGH_121"
+                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/Radhe_bot_owner"
             ),                                  
         ]
     ]
