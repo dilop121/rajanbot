@@ -38,7 +38,7 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/Radhe_bot_owner"
+                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[] ★", url=f"https://t.me/Radhe_bot_owner"
             ),                                  
         ]
     ]
@@ -60,12 +60,12 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
                 text="★ Oᴡɴᴇʀ ★", url="https://t.me/Radhe_bot_owner"
             ),
             InlineKeyboardButton(
-                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url="https://t.me/Radhe_bot_owner"
+                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[] ★", url="https://t.me/Radhe_bot_owner"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/Radhe_bot_owner"
+                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[] ★", url=f"https://t.me/Radhe_bot_owner"
             ),                                  
         ]
     ]
